@@ -1,0 +1,122 @@
+2022-02-25 02:35:43,281-Main_Module-ERROR-Some error occurred while calling create_DB
+2022-02-25 02:35:43,282-Main_Module-ERROR-name 'writelogs' is not defined
+Traceback (most recent call last):
+  File "D:/user/jupyternotes/pycharm/Project1/MogoDB-project/Main_Module.py", line 74, in <module>
+    db = create_DB('carbon_tubes')
+  File "D:\user\jupyternotes\pycharm\Project1\MogoDB-project\Access_mongoDB.py", line 11, in create_DB
+    writelogs('Access_mongoDB', 'info', 'Entered into create_DB')
+NameError: name 'writelogs' is not defined
+2022-02-25 02:35:43,282-Main_Module-ERROR-Some error occurred while calling create_table
+2022-02-25 02:35:43,282-Main_Module-ERROR-name 'db' is not defined
+Traceback (most recent call last):
+  File "D:/user/jupyternotes/pycharm/Project1/MogoDB-project/Main_Module.py", line 81, in <module>
+    collection = create_table('carbon_nanatubes', db)
+NameError: name 'db' is not defined
+2022-02-25 02:35:43,282-Main_Module-ERROR-Some error occurred while calling readfile
+2022-02-25 02:35:43,282-Main_Module-ERROR-name 'writelogs' is not defined
+Traceback (most recent call last):
+  File "D:/user/jupyternotes/pycharm/Project1/MogoDB-project/Main_Module.py", line 89, in <module>
+    data = readfile(file)
+  File "D:\user\jupyternotes\pycharm\Project1\MogoDB-project\Read_file.py", line 9, in readfile
+    writelogs('Read_file', 'info', 'Entered into readfile')
+NameError: name 'writelogs' is not defined
+2022-02-25 02:35:43,283-Main_Module-ERROR-Some error occurred while calling format_rec
+2022-02-25 02:35:43,283-Main_Module-ERROR-name 'data' is not defined
+Traceback (most recent call last):
+  File "D:/user/jupyternotes/pycharm/Project1/MogoDB-project/Main_Module.py", line 96, in <module>
+    dic_rec_list = format_rec(data)
+NameError: name 'data' is not defined
+2022-02-25 02:35:43,283-Main_Module-ERROR-Some error occurred while calling bulk_insert
+2022-02-25 02:35:43,283-Main_Module-ERROR-name 'collection' is not defined
+Traceback (most recent call last):
+  File "D:/user/jupyternotes/pycharm/Project1/MogoDB-project/Main_Module.py", line 103, in <module>
+    bulk_insert(collection, dic_rec_list)
+NameError: name 'collection' is not defined
+2022-02-25 02:35:49,335-Main Module-INFO-Entered into singlefind
+2022-02-25 02:35:49,335-Main_Module-ERROR-Some error occurred inside singlefind
+2022-02-25 02:35:49,335-singlefind-ERROR-name 'collection' is not defined
+Traceback (most recent call last):
+  File "D:/user/jupyternotes/pycharm/Project1/MogoDB-project/Main_Module.py", line 11, in singlefind
+    data_found=single_find(collection,query)
+NameError: name 'collection' is not defined
+2022-02-25 02:35:52,132-Main Module-INFO-Entered into bulkfind
+2022-02-25 02:35:52,132-Main_Module-ERROR-Some error occurred inside bulkfind
+2022-02-25 02:35:52,132-bulkfind-ERROR-name 'collection' is not defined
+Traceback (most recent call last):
+  File "D:/user/jupyternotes/pycharm/Project1/MogoDB-project/Main_Module.py", line 22, in bulkfind
+    data_found=bulk_find(collection,query)
+NameError: name 'collection' is not defined
+2022-02-25 02:35:54,686-Main Module-INFO-Entered into singleupdation
+2022-02-25 02:35:54,686-Main_Module-ERROR-Some error occurred inside singleupdation
+2022-02-25 02:35:54,686-singleupdation-ERROR-name 'collection' is not defined
+Traceback (most recent call last):
+  File "D:/user/jupyternotes/pycharm/Project1/MogoDB-project/Main_Module.py", line 45, in singleupdation
+    single_update(collection,data1,data2)
+NameError: name 'collection' is not defined
+2022-02-25 02:35:57,169-Main Module-INFO-Entered into bulkupdation
+2022-02-25 02:35:57,169-Main_Module-ERROR-Some error occurred inside bulkupdation
+2022-02-25 02:35:57,169-bulkupdation-ERROR-name 'collection' is not defined
+Traceback (most recent call last):
+  File "D:/user/jupyternotes/pycharm/Project1/MogoDB-project/Main_Module.py", line 34, in bulkupdation
+    bulk_update(collection,data1,data2)
+NameError: name 'collection' is not defined
+2022-02-25 02:35:59,767-Main Module-INFO-Entered into singledelete
+2022-02-25 02:35:59,767-Main_Module-ERROR-Some error occurred inside singledelete
+2022-02-25 02:35:59,767-singledelete-ERROR-name 'collection' is not defined
+Traceback (most recent call last):
+  File "D:/user/jupyternotes/pycharm/Project1/MogoDB-project/Main_Module.py", line 55, in singledelete
+    single_delete(collection,query)
+NameError: name 'collection' is not defined
+2022-02-25 02:36:02,039-Main Module-INFO-Entered into bulkdelete
+2022-02-25 02:36:02,039-Main_Module-ERROR-Some error occurred inside bulkdelete
+2022-02-25 02:36:02,039-bulkdelete-ERROR-name 'collection' is not defined
+Traceback (most recent call last):
+  File "D:/user/jupyternotes/pycharm/Project1/MogoDB-project/Main_Module.py", line 65, in bulkdelete
+    bulk_delete(collection,query)
+NameError: name 'collection' is not defined
+2022-02-25 02:37:52,591-Access_mongoDB-INFO-Entered into create_DB
+2022-02-25 02:37:52,591-Access_mongoDB-INFO-Entered into create_table
+2022-02-25 02:37:52,591-Read_file-INFO-Entered into readfile
+2022-02-25 02:37:52,886-Read_file-INFO-Entered into format_rec
+2022-02-25 02:37:53,068-Access_mongoDB-INFO-Entered into bulk_insert
+2022-02-25 02:38:00,693-Main Module-INFO-Entered into singlefind
+2022-02-25 02:38:00,693-Access_mongoDB-INFO-Entered into single_find
+2022-02-25 02:38:02,760-Main Module-INFO-Entered into bulkfind
+2022-02-25 02:38:02,760-Access_mongoDB-INFO-Entered into bulk_find
+2022-02-25 02:38:04,696-Main Module-INFO-Entered into singleupdation
+2022-02-25 02:38:04,696-Access_mongoDB-INFO-Entered into single_update
+2022-02-25 02:38:07,257-Main Module-INFO-Entered into bulkupdation
+2022-02-25 02:38:07,257-Access_mongoDB-INFO-Entered into bulk_update
+2022-02-25 02:38:11,493-Main Module-INFO-Entered into singledelete
+2022-02-25 02:38:11,494-Access_mongoDB-INFO-Entered into single_delete
+2022-02-25 02:38:13,954-Main Module-INFO-Entered into bulkdelete
+2022-02-25 02:38:13,954-Access_mongoDB-INFO-Entered into bulk_delete
+2022-02-25 02:45:29,581-Access_mongoDB-INFO-Entered into create_DB
+2022-02-25 02:46:25,235-Access_mongoDB-INFO-Entered into create_DB
+2022-02-25 02:46:25,235-Access_mongoDB-INFO-Entered into create_DB
+2022-02-25 02:46:25,235-Access_mongoDB-INFO-Entered into create_table
+2022-02-25 02:46:25,236-Read_file-INFO-Entered into readfile
+2022-02-25 02:46:25,252-Read_file-INFO-Entered into format_rec
+2022-02-25 02:46:25,422-Access_mongoDB-INFO-Entered into bulk_insert
+2022-02-25 02:46:46,741-Main Module-INFO-Entered into singlefind
+2022-02-25 02:46:46,741-Access_mongoDB-INFO-Entered into single_find
+2022-02-25 02:46:47,732-Main Module-INFO-Entered into bulkfind
+2022-02-25 02:46:47,732-Access_mongoDB-INFO-Entered into bulk_find
+2022-02-25 02:46:55,079-Main Module-INFO-Entered into singleupdation
+2022-02-25 02:46:55,079-Access_mongoDB-INFO-Entered into single_update
+2022-02-25 02:46:56,991-Main Module-INFO-Entered into bulkupdation
+2022-02-25 02:46:56,991-Access_mongoDB-INFO-Entered into bulk_update
+2022-02-25 02:46:59,399-Main Module-INFO-Entered into singledelete
+2022-02-25 02:46:59,399-Access_mongoDB-INFO-Entered into single_delete
+2022-02-25 02:47:01,034-Main Module-INFO-Entered into bulkdelete
+2022-02-25 02:47:01,034-Access_mongoDB-INFO-Entered into bulk_delete
+2022-02-25 02:48:34,486-Access_mongoDB-INFO-Entered into create_DB
+2022-02-25 02:48:34,487-Access_mongoDB-INFO-Entered into create_DB
+2022-02-25 02:48:34,487-Access_mongoDB-INFO-Entered into create_table
+2022-02-25 02:48:34,487-Read_file-INFO-Entered into readfile
+2022-02-25 02:48:34,503-Read_file-INFO-Entered into format_rec
+2022-02-25 02:48:34,668-Access_mongoDB-INFO-Entered into bulk_insert
+2022-02-25 02:48:45,067-Main Module-INFO-Entered into singlefind
+2022-02-25 02:48:45,067-Access_mongoDB-INFO-Entered into single_find
+2022-02-25 02:48:52,314-Main Module-INFO-Entered into bulkfind
+2022-02-25 02:48:52,314-Access_mongoDB-INFO-Entered into bulk_find
