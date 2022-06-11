@@ -1,0 +1,39 @@
+
+
+
+{% block head %}
+
+<title>Text File Editor</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h1 style="text-align: center">Text File Editor</h1>
+
+    <div class="form">
+        <form action="/file" method="POST">
+              <div>
+                <span style="padding-right: 5em">
+                    <label >Enter the text file name with extension .txt</label>
+                    <input type="text" name="filename" id="filename">
+                </span>
+                <label >Enter the text file path</label>
+                <input type="text" name="filepath" id="filepath">
+            </div>
+        <br>
+
+             <div><span style="padding-right: 5em">
+            <label >Enter Find text</label>
+
+            <input type="text" name="find_string" id="find_string" >
+             </span>
+
+            <label >Enter Replace with text </label>
+            <input type="text" name="Replace_string" id="Replace_string">
+            <input type="submit" value="Submit">
+             </div>
+        </form>
+    </div>
+</div>
+{% endblock %}
