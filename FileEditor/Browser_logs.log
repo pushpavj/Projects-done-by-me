@@ -1,0 +1,1076 @@
+2022-06-09 23:48:45,614-start3-INFO-started with math_operation menu building
+2022-06-09 23:48:45,643-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-09 23:48:45,648-werkzeug-INFO- * Restarting with stat
+2022-06-09 23:48:46,397-start3-INFO-started with math_operation menu building
+2022-06-09 23:48:46,414-werkzeug-WARNING- * Debugger is active!
+2022-06-09 23:48:46,430-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-09 23:48:58,674-start2-INFO-started with math_operation menu building
+2022-06-09 23:48:58,696-werkzeug-INFO-127.0.0.1 - - [09/Jun/2022 23:48:58] "GET / HTTP/1.1" 200 -
+2022-06-09 23:49:09,941-start3-INFO-started with math_operation menu building
+2022-06-09 23:49:09,943-start2-INFO-started with math_operation menu building
+2022-06-09 23:49:09,947-werkzeug-INFO-127.0.0.1 - - [09/Jun/2022 23:49:09] "POST /file HTTP/1.1" 200 -
+2022-06-09 23:49:09,956-werkzeug-INFO-127.0.0.1 - - [09/Jun/2022 23:49:09] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-09 23:52:51,097-Start1-INFO-started with app module
+2022-06-09 23:52:51,155-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-09 23:52:51,167-werkzeug-INFO- * Restarting with stat
+2022-06-09 23:52:52,378-Start1-INFO-started with app module
+2022-06-09 23:52:52,415-werkzeug-WARNING- * Debugger is active!
+2022-06-09 23:52:52,460-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-09 23:52:58,294-start2-INFO-started with home page 
+2022-06-09 23:52:58,300-werkzeug-INFO-127.0.0.1 - - [09/Jun/2022 23:52:58] "GET / HTTP/1.1" 200 -
+2022-06-09 23:53:06,833-start3-INFO-started with math_operation 
+2022-06-09 23:53:06,837-werkzeug-INFO-127.0.0.1 - - [09/Jun/2022 23:53:06] "POST /file HTTP/1.1" 200 -
+2022-06-09 23:53:06,847-werkzeug-INFO-127.0.0.1 - - [09/Jun/2022 23:53:06] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 00:02:52,191-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\getfile.py', reloading
+2022-06-10 00:02:52,281-werkzeug-INFO- * Restarting with stat
+2022-06-10 00:02:53,089-Start1-INFO-started with app module
+2022-06-10 00:02:53,103-werkzeug-WARNING- * Debugger is active!
+2022-06-10 00:02:53,117-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 00:04:16,401-Start1-INFO-started with app module
+2022-06-10 00:04:16,425-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 00:04:16,431-werkzeug-INFO- * Restarting with stat
+2022-06-10 00:04:17,483-Start1-INFO-started with app module
+2022-06-10 00:04:17,523-werkzeug-WARNING- * Debugger is active!
+2022-06-10 00:04:17,561-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 00:04:23,011-start2-INFO-started with home page 
+2022-06-10 00:04:23,032-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:04:23] "GET / HTTP/1.1" 200 -
+2022-06-10 00:04:33,169-start3-INFO-started with math_operation 
+2022-06-10 00:04:33,200-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:04:33] "[35m[1mPOST /file HTTP/1.1[0m" 500 -
+2022-06-10 00:04:33,216-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:04:33] "[36mGET /file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-10 00:04:33,217-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:04:33] "[36mGET /file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-10 00:04:33,264-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:04:33] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 00:04:33,286-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:04:33] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 00:14:32,594-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\getfile.py', reloading
+2022-06-10 00:14:32,674-werkzeug-INFO- * Restarting with stat
+2022-06-10 00:14:45,735-Start1-INFO-started with app module
+2022-06-10 00:14:45,799-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 00:14:45,814-werkzeug-INFO- * Restarting with stat
+2022-06-10 00:14:47,112-Start1-INFO-started with app module
+2022-06-10 00:14:47,125-werkzeug-WARNING- * Debugger is active!
+2022-06-10 00:14:47,138-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 00:14:58,538-start2-INFO-started with home page 
+2022-06-10 00:14:58,571-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:14:58] "GET / HTTP/1.1" 200 -
+2022-06-10 00:15:09,160-start3-INFO-started with math_operation 
+2022-06-10 00:15:09,165-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:15:09] "POST /file HTTP/1.1" 200 -
+2022-06-10 00:15:09,175-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:15:09] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 00:19:23,802-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\getfile.py', reloading
+2022-06-10 00:19:23,863-werkzeug-INFO- * Restarting with stat
+2022-06-10 00:19:28,672-Start1-INFO-started with app module
+2022-06-10 00:19:28,686-werkzeug-WARNING- * Debugger is active!
+2022-06-10 00:19:28,699-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 00:21:29,472-start2-INFO-started with home page 
+2022-06-10 00:21:29,482-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:21:29] "GET / HTTP/1.1" 200 -
+2022-06-10 00:21:44,129-start3-INFO-started with math_operation 
+2022-06-10 00:21:44,132-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:21:44] "POST /file HTTP/1.1" 200 -
+2022-06-10 00:21:44,142-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:21:44] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 00:22:26,407-start2-INFO-started with home page 
+2022-06-10 00:22:26,408-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:22:26] "GET / HTTP/1.1" 200 -
+2022-06-10 00:22:41,992-start3-INFO-started with math_operation 
+2022-06-10 00:22:41,994-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:22:41] "POST /file HTTP/1.1" 200 -
+2022-06-10 00:22:42,004-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:22:42] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 00:24:31,538-Start1-INFO-started with app module
+2022-06-10 00:24:31,559-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 00:24:31,565-werkzeug-INFO- * Restarting with stat
+2022-06-10 00:24:32,743-Start1-INFO-started with app module
+2022-06-10 00:24:32,757-werkzeug-WARNING- * Debugger is active!
+2022-06-10 00:24:32,771-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 00:24:37,161-start2-INFO-started with home page 
+2022-06-10 00:24:37,168-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:24:37] "GET / HTTP/1.1" 200 -
+2022-06-10 00:24:49,500-start3-INFO-started with math_operation 
+2022-06-10 00:24:49,529-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:24:49] "[35m[1mPOST /file HTTP/1.1[0m" 500 -
+2022-06-10 00:24:49,541-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:24:49] "[36mGET /file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-10 00:24:49,541-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:24:49] "[36mGET /file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-10 00:24:49,550-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:24:49] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 00:24:49,571-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:24:49] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 00:25:21,969-Start1-INFO-started with app module
+2022-06-10 00:25:21,994-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 00:25:22,001-werkzeug-INFO- * Restarting with stat
+2022-06-10 00:25:23,098-Start1-INFO-started with app module
+2022-06-10 00:25:23,111-werkzeug-WARNING- * Debugger is active!
+2022-06-10 00:25:23,123-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 00:25:31,088-start2-INFO-started with home page 
+2022-06-10 00:25:31,094-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:25:31] "GET / HTTP/1.1" 200 -
+2022-06-10 00:25:49,902-start3-INFO-started with math_operation 
+2022-06-10 00:25:49,909-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:25:49] "POST /file HTTP/1.1" 200 -
+2022-06-10 00:25:49,921-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:25:49] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 00:38:08,463-Start1-INFO-started with app module
+2022-06-10 00:38:08,477-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 00:38:08,480-werkzeug-INFO- * Restarting with stat
+2022-06-10 00:38:08,962-Start1-INFO-started with app module
+2022-06-10 00:38:08,971-werkzeug-WARNING- * Debugger is active!
+2022-06-10 00:38:08,980-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 00:38:16,201-start2-INFO-started with home page 
+2022-06-10 00:38:16,204-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:38:16] "GET / HTTP/1.1" 200 -
+2022-06-10 00:38:38,579-start3-INFO-started with math_operation 
+2022-06-10 00:38:38,582-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:38:38] "POST /file HTTP/1.1" 200 -
+2022-06-10 00:38:38,593-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:38:38] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 00:39:27,397-Start1-INFO-started with app module
+2022-06-10 00:39:27,410-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 00:39:27,414-werkzeug-INFO- * Restarting with stat
+2022-06-10 00:39:27,893-Start1-INFO-started with app module
+2022-06-10 00:39:27,902-werkzeug-WARNING- * Debugger is active!
+2022-06-10 00:39:27,911-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 00:39:37,336-start2-INFO-started with home page 
+2022-06-10 00:39:37,341-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:39:37] "GET / HTTP/1.1" 200 -
+2022-06-10 00:39:47,975-start3-INFO-started with math_operation 
+2022-06-10 00:39:47,979-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:39:47] "POST /file HTTP/1.1" 200 -
+2022-06-10 00:39:47,987-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:39:47] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 00:40:25,759-Start1-INFO-started with app module
+2022-06-10 00:40:25,773-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 00:40:25,776-werkzeug-INFO- * Restarting with stat
+2022-06-10 00:40:26,265-Start1-INFO-started with app module
+2022-06-10 00:40:26,277-werkzeug-WARNING- * Debugger is active!
+2022-06-10 00:40:26,288-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 00:40:31,362-start2-INFO-started with home page 
+2022-06-10 00:40:31,367-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:40:31] "GET / HTTP/1.1" 200 -
+2022-06-10 00:40:46,174-start3-INFO-started with math_operation 
+2022-06-10 00:40:46,178-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:40:46] "POST /file HTTP/1.1" 200 -
+2022-06-10 00:40:46,184-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 00:40:46] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 00:45:35,948-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\app.py', reloading
+2022-06-10 00:45:35,967-werkzeug-INFO- * Restarting with stat
+2022-06-10 01:18:44,071-Start1-INFO-started with app module
+2022-06-10 01:18:44,093-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 01:18:44,098-werkzeug-INFO- * Restarting with stat
+2022-06-10 01:18:44,634-Start1-INFO-started with app module
+2022-06-10 01:18:44,644-werkzeug-WARNING- * Debugger is active!
+2022-06-10 01:18:44,654-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 01:18:55,166-start2-INFO-started with home page 
+2022-06-10 01:18:55,173-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:18:55] "GET / HTTP/1.1" 200 -
+2022-06-10 01:19:06,784-start3-INFO-started with math_operation 
+2022-06-10 01:19:06,791-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:19:06] "POST /file HTTP/1.1" 200 -
+2022-06-10 01:19:06,801-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:19:06] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 01:21:56,247-Start1-INFO-started with app module
+2022-06-10 01:21:56,261-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 01:21:56,264-werkzeug-INFO- * Restarting with stat
+2022-06-10 01:21:56,755-Start1-INFO-started with app module
+2022-06-10 01:21:56,764-werkzeug-WARNING- * Debugger is active!
+2022-06-10 01:21:56,773-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 01:22:02,413-start2-INFO-started with home page 
+2022-06-10 01:22:02,418-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:22:02] "GET / HTTP/1.1" 200 -
+2022-06-10 01:22:10,476-start3-INFO-started with math_operation 
+2022-06-10 01:22:10,494-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:22:10] "[35m[1mPOST /file HTTP/1.1[0m" 500 -
+2022-06-10 01:22:10,505-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:22:10] "[36mGET /file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-10 01:22:10,505-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:22:10] "[36mGET /file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-10 01:22:10,516-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:22:10] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 01:22:10,530-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:22:10] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 01:23:09,833-Start1-INFO-started with app module
+2022-06-10 01:23:09,847-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 01:23:09,850-werkzeug-INFO- * Restarting with stat
+2022-06-10 01:23:10,340-Start1-INFO-started with app module
+2022-06-10 01:23:10,350-werkzeug-WARNING- * Debugger is active!
+2022-06-10 01:23:10,359-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 01:23:14,038-start2-INFO-started with home page 
+2022-06-10 01:23:14,044-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:23:14] "GET / HTTP/1.1" 200 -
+2022-06-10 01:23:21,576-start3-INFO-started with math_operation 
+2022-06-10 01:23:21,581-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:23:21] "POST /file HTTP/1.1" 200 -
+2022-06-10 01:23:21,589-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:23:21] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 01:24:44,308-Start1-INFO-started with app module
+2022-06-10 01:24:44,322-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 01:24:44,326-werkzeug-INFO- * Restarting with stat
+2022-06-10 01:24:44,822-Start1-INFO-started with app module
+2022-06-10 01:24:44,832-werkzeug-WARNING- * Debugger is active!
+2022-06-10 01:24:44,842-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 01:24:50,295-start2-INFO-started with home page 
+2022-06-10 01:24:50,299-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:24:50] "GET / HTTP/1.1" 200 -
+2022-06-10 01:24:59,428-start3-INFO-started with math_operation 
+2022-06-10 01:24:59,432-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:24:59] "POST /file HTTP/1.1" 200 -
+2022-06-10 01:24:59,443-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:24:59] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 01:26:12,324-start2-INFO-started with home page 
+2022-06-10 01:26:12,325-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:26:12] "GET / HTTP/1.1" 200 -
+2022-06-10 01:26:21,372-start3-INFO-started with math_operation 
+2022-06-10 01:26:21,373-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:26:21] "POST /file HTTP/1.1" 200 -
+2022-06-10 01:26:21,382-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:26:21] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 01:26:46,454-Start1-INFO-started with app module
+2022-06-10 01:26:46,468-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 01:26:46,472-werkzeug-INFO- * Restarting with stat
+2022-06-10 01:26:46,964-Start1-INFO-started with app module
+2022-06-10 01:26:46,974-werkzeug-WARNING- * Debugger is active!
+2022-06-10 01:26:46,984-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 01:26:57,045-start2-INFO-started with home page 
+2022-06-10 01:26:57,051-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:26:57] "GET / HTTP/1.1" 200 -
+2022-06-10 01:27:05,148-start3-INFO-started with math_operation 
+2022-06-10 01:27:05,151-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:27:05] "POST /file HTTP/1.1" 200 -
+2022-06-10 01:27:05,159-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 01:27:05] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 09:22:54,451-Start1-INFO-started with app module
+2022-06-10 09:22:54,479-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 09:22:54,484-werkzeug-INFO- * Restarting with stat
+2022-06-10 09:22:54,984-Start1-INFO-started with app module
+2022-06-10 09:22:54,993-werkzeug-WARNING- * Debugger is active!
+2022-06-10 09:22:55,003-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 09:23:13,920-start2-INFO-started with home page 
+2022-06-10 09:23:14,018-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:23:14] "GET / HTTP/1.1" 200 -
+2022-06-10 09:23:14,299-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:23:14] "GET /static/css/style.css HTTP/1.1" 200 -
+2022-06-10 09:23:15,208-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:23:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-06-10 09:23:30,562-start3-INFO-started with math_operation 
+2022-06-10 09:23:30,567-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:23:30] "POST /file HTTP/1.1" 200 -
+2022-06-10 09:23:30,575-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:23:30] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 09:23:30,576-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:23:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 09:24:46,480-start2-INFO-started with home page 
+2022-06-10 09:24:46,481-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:24:46] "GET / HTTP/1.1" 200 -
+2022-06-10 09:24:46,490-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:24:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 09:24:59,404-start3-INFO-started with math_operation 
+2022-06-10 09:24:59,404-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:24:59] "POST /file HTTP/1.1" 200 -
+2022-06-10 09:24:59,413-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:24:59] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 09:24:59,415-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:24:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 09:26:22,736-Start1-INFO-started with app module
+2022-06-10 09:26:30,015-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 09:26:30,018-werkzeug-INFO- * Restarting with stat
+2022-06-10 09:26:33,242-Start1-INFO-started with app module
+2022-06-10 09:26:50,505-werkzeug-WARNING- * Debugger is active!
+2022-06-10 09:26:50,531-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 09:27:09,960-start2-INFO-started with home page 
+2022-06-10 09:27:09,973-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:27:09] "GET / HTTP/1.1" 200 -
+2022-06-10 09:27:09,982-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:27:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 09:27:18,846-start3-INFO-started with math_operation 
+2022-06-10 09:46:58,855-Start1-INFO-started with app module
+2022-06-10 09:46:58,869-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 09:46:58,873-werkzeug-INFO- * Restarting with stat
+2022-06-10 09:46:59,357-Start1-INFO-started with app module
+2022-06-10 09:46:59,366-werkzeug-WARNING- * Debugger is active!
+2022-06-10 09:46:59,375-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 09:47:09,481-start2-INFO-started with home page 
+2022-06-10 09:47:09,486-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:47:09] "GET / HTTP/1.1" 200 -
+2022-06-10 09:47:09,502-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:47:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 09:47:19,451-start3-INFO-started with math_operation 
+2022-06-10 09:47:19,469-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:47:19] "[35m[1mPOST /file HTTP/1.1[0m" 500 -
+2022-06-10 09:47:19,479-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:47:19] "[36mGET /file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-10 09:47:19,479-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:47:19] "[36mGET /file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-10 09:47:19,486-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:47:19] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 09:47:19,518-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:47:19] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 09:50:40,856-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\File_processor.py', reloading
+2022-06-10 09:50:40,879-werkzeug-INFO- * Restarting with stat
+2022-06-10 09:50:43,245-Start1-INFO-started with app module
+2022-06-10 09:50:43,255-werkzeug-WARNING- * Debugger is active!
+2022-06-10 09:50:43,264-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 09:50:52,153-Start1-INFO-started with app module
+2022-06-10 09:50:52,170-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 09:50:52,173-werkzeug-INFO- * Restarting with stat
+2022-06-10 09:50:52,681-Start1-INFO-started with app module
+2022-06-10 09:50:52,690-werkzeug-WARNING- * Debugger is active!
+2022-06-10 09:50:52,699-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 09:51:10,940-start2-INFO-started with home page 
+2022-06-10 09:51:10,945-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:51:10] "GET / HTTP/1.1" 200 -
+2022-06-10 09:51:10,954-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:51:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 09:51:25,768-start3-INFO-started with math_operation 
+2022-06-10 09:51:25,785-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:51:25] "[35m[1mPOST /file HTTP/1.1[0m" 500 -
+2022-06-10 09:51:25,794-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:51:25] "[36mGET /file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-10 09:51:25,795-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:51:25] "[36mGET /file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-10 09:51:25,802-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:51:25] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 09:51:58,828-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\File_processor.py', reloading
+2022-06-10 09:51:58,851-werkzeug-INFO- * Restarting with stat
+2022-06-10 09:51:59,347-Start1-INFO-started with app module
+2022-06-10 09:51:59,357-werkzeug-WARNING- * Debugger is active!
+2022-06-10 09:51:59,366-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 09:52:04,423-Start1-INFO-started with app module
+2022-06-10 09:52:04,437-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 09:52:04,440-werkzeug-INFO- * Restarting with stat
+2022-06-10 09:52:04,941-Start1-INFO-started with app module
+2022-06-10 09:52:04,951-werkzeug-WARNING- * Debugger is active!
+2022-06-10 09:52:04,960-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 09:52:13,824-start3-INFO-started with math_operation 
+2022-06-10 09:52:13,830-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:52:13] "POST /file HTTP/1.1" 200 -
+2022-06-10 09:52:13,839-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:52:13] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 09:52:13,842-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:52:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 09:53:24,318-Start1-INFO-started with app module
+2022-06-10 09:53:24,332-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 09:53:24,336-werkzeug-INFO- * Restarting with stat
+2022-06-10 09:53:24,821-Start1-INFO-started with app module
+2022-06-10 09:53:24,831-werkzeug-WARNING- * Debugger is active!
+2022-06-10 09:53:24,841-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 09:53:29,500-start3-INFO-started with math_operation 
+2022-06-10 09:53:29,507-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:53:29] "POST /file HTTP/1.1" 200 -
+2022-06-10 09:53:29,516-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:53:29] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 09:53:29,518-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:53:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 09:59:40,697-Start1-INFO-started with app module
+2022-06-10 09:59:40,717-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 09:59:40,723-werkzeug-INFO- * Restarting with stat
+2022-06-10 09:59:41,966-Start1-INFO-started with app module
+2022-06-10 09:59:41,984-werkzeug-WARNING- * Debugger is active!
+2022-06-10 09:59:41,998-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 09:59:46,319-start3-INFO-started with math_operation 
+2022-06-10 09:59:46,327-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:59:46] "POST /file HTTP/1.1" 200 -
+2022-06-10 09:59:46,338-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:59:46] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 09:59:46,340-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 09:59:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 10:00:47,307-Start1-INFO-started with app module
+2022-06-10 10:00:47,327-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 10:00:47,332-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:00:48,129-Start1-INFO-started with app module
+2022-06-10 10:00:48,152-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:00:48,174-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:00:51,157-start3-INFO-started with math_operation 
+2022-06-10 10:00:51,167-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:00:51] "POST /file HTTP/1.1" 200 -
+2022-06-10 10:00:51,179-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:00:51] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 10:00:51,182-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:00:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 10:01:23,832-Start1-INFO-started with app module
+2022-06-10 10:01:23,851-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 10:01:23,856-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:01:24,838-Start1-INFO-started with app module
+2022-06-10 10:01:24,864-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:01:24,889-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:01:30,251-start3-INFO-started with math_operation 
+2022-06-10 10:01:30,260-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:01:30] "POST /file HTTP/1.1" 200 -
+2022-06-10 10:01:30,270-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:01:30] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 10:01:30,272-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:01:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 10:01:48,148-Start1-INFO-started with app module
+2022-06-10 10:01:48,172-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 10:01:48,179-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:01:49,105-Start1-INFO-started with app module
+2022-06-10 10:01:49,120-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:01:49,133-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:01:51,507-start3-INFO-started with math_operation 
+2022-06-10 10:01:51,515-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:01:51] "POST /file HTTP/1.1" 200 -
+2022-06-10 10:01:51,525-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:01:51] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 10:01:51,527-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:01:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 10:02:17,692-Start1-INFO-started with app module
+2022-06-10 10:02:17,717-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 10:02:17,723-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:02:18,697-Start1-INFO-started with app module
+2022-06-10 10:02:18,710-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:02:18,723-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:02:38,447-start3-INFO-started with math_operation 
+2022-06-10 10:02:38,455-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:02:38] "POST /file HTTP/1.1" 200 -
+2022-06-10 10:02:38,465-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:02:38] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 10:02:38,468-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:02:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 10:03:08,615-Start1-INFO-started with app module
+2022-06-10 10:03:08,635-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 10:03:08,640-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:03:09,763-Start1-INFO-started with app module
+2022-06-10 10:03:09,780-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:03:09,793-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:03:12,413-start3-INFO-started with math_operation 
+2022-06-10 10:03:12,421-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:03:12] "POST /file HTTP/1.1" 200 -
+2022-06-10 10:03:12,431-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:03:12] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 10:03:12,434-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:03:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 10:03:27,986-Start1-INFO-started with app module
+2022-06-10 10:03:28,019-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 10:03:28,025-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:03:29,003-Start1-INFO-started with app module
+2022-06-10 10:03:29,017-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:03:29,030-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:03:32,224-start3-INFO-started with math_operation 
+2022-06-10 10:03:32,233-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:03:32] "POST /file HTTP/1.1" 200 -
+2022-06-10 10:03:32,243-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:03:32] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 10:03:32,246-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:03:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 10:04:30,478-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\app.py', reloading
+2022-06-10 10:04:30,553-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:04:36,868-Start1-INFO-started with app module
+2022-06-10 10:04:36,886-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:04:36,903-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:04:41,355-Start1-INFO-started with app module
+2022-06-10 10:04:41,376-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 10:04:41,380-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:04:42,214-Start1-INFO-started with app module
+2022-06-10 10:04:42,232-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:04:42,264-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:04:45,314-start3-INFO-started with math_operation 
+2022-06-10 10:04:45,322-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:04:45] "POST /file HTTP/1.1" 200 -
+2022-06-10 10:04:45,332-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:04:45] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 10:04:45,335-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:04:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 10:05:15,134-start3-INFO-started with math_operation 
+2022-06-10 10:05:15,156-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:05:15] "[35m[1mPOST /file HTTP/1.1[0m" 500 -
+2022-06-10 10:05:15,168-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:05:15] "[36mGET /file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-10 10:05:15,169-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:05:15] "[36mGET /file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-10 10:05:15,179-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:05:15] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 10:05:15,202-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:05:15] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 10:08:13,903-Start1-INFO-started with app module
+2022-06-10 10:08:13,923-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 10:08:13,928-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:08:14,886-Start1-INFO-started with app module
+2022-06-10 10:08:14,899-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:08:14,912-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:08:18,874-start3-INFO-started with math_operation 
+2022-06-10 10:08:18,898-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:08:18] "[35m[1mPOST /file HTTP/1.1[0m" 500 -
+2022-06-10 10:08:18,908-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:08:18] "[36mGET /file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-10 10:08:18,910-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:08:18] "[36mGET /file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-10 10:08:18,920-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:08:18] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 10:09:53,999-Start1-INFO-started with app module
+2022-06-10 10:09:54,019-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 10:09:54,026-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:09:55,131-Start1-INFO-started with app module
+2022-06-10 10:09:55,146-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:09:55,160-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:09:58,480-start3-INFO-started with math_operation 
+2022-06-10 10:09:58,489-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:09:58] "POST /file HTTP/1.1" 200 -
+2022-06-10 10:09:58,499-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:09:58] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 10:09:58,502-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:09:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 10:10:36,491-start3-INFO-started with math_operation 
+2022-06-10 10:10:36,493-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:10:36] "POST /file HTTP/1.1" 200 -
+2022-06-10 10:10:36,503-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:10:36] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 10:10:36,507-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:10:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 10:10:57,168-Start1-INFO-started with app module
+2022-06-10 10:10:57,191-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 10:10:57,196-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:10:58,129-Start1-INFO-started with app module
+2022-06-10 10:10:58,142-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:10:58,155-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:11:00,699-start3-INFO-started with math_operation 
+2022-06-10 10:11:00,708-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:11:00] "POST /file HTTP/1.1" 200 -
+2022-06-10 10:11:00,719-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:11:00] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 10:11:00,723-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:11:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 10:12:07,926-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\File_processor.py', reloading
+2022-06-10 10:12:07,998-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:12:09,011-Start1-INFO-started with app module
+2022-06-10 10:12:09,037-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:12:09,052-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:14:24,542-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\search_file.py', reloading
+2022-06-10 10:14:24,671-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:14:25,768-Start1-INFO-started with app module
+2022-06-10 10:14:25,781-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:14:25,795-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:14:57,663-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\File_processor.py', reloading
+2022-06-10 10:14:57,724-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:15:02,575-Start1-INFO-started with app module
+2022-06-10 10:15:02,594-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:15:02,612-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:16:03,169-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\File_processor.py', reloading
+2022-06-10 10:16:03,258-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:16:04,463-Start1-INFO-started with app module
+2022-06-10 10:16:04,488-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:16:04,514-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:19:11,877-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\File_processor.py', reloading
+2022-06-10 10:19:11,903-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:19:16,112-Start1-INFO-started with app module
+2022-06-10 10:19:16,127-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:19:16,140-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:19:37,635-Start1-INFO-started with app module
+2022-06-10 10:19:37,656-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 10:19:37,660-werkzeug-INFO- * Restarting with stat
+2022-06-10 10:19:38,447-Start1-INFO-started with app module
+2022-06-10 10:19:38,460-werkzeug-WARNING- * Debugger is active!
+2022-06-10 10:19:38,474-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 10:19:42,907-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:19:42] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 10:19:49,015-start3-INFO-started with math_operation 
+2022-06-10 10:19:49,052-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:19:49] "[35m[1mPOST /file HTTP/1.1[0m" 500 -
+2022-06-10 10:19:49,063-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:19:49] "[36mGET /file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-10 10:19:49,064-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:19:49] "[36mGET /file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-10 10:19:49,078-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:19:49] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 10:44:55,231-start3-INFO-started with math_operation 
+2022-06-10 10:44:55,255-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:44:55] "[35m[1mPOST /file HTTP/1.1[0m" 500 -
+2022-06-10 10:44:55,266-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:44:55] "[36mGET /file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-10 10:44:55,267-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:44:55] "[36mGET /file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-10 10:44:55,279-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 10:44:55] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 12:51:22,770-Start1-INFO-started with app module
+2022-06-10 12:51:22,785-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 12:51:22,789-werkzeug-INFO- * Restarting with stat
+2022-06-10 12:51:23,289-Start1-INFO-started with app module
+2022-06-10 12:51:23,298-werkzeug-WARNING- * Debugger is active!
+2022-06-10 12:51:23,308-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 12:51:30,126-start3-INFO-started with math_operation 
+2022-06-10 12:51:30,145-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:51:30] "[35m[1mPOST /file HTTP/1.1[0m" 500 -
+2022-06-10 12:51:30,155-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:51:30] "[36mGET /file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-10 12:51:30,156-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:51:30] "[36mGET /file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-10 12:51:30,164-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:51:30] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 12:52:52,700-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\File_processor.py', reloading
+2022-06-10 12:52:52,729-werkzeug-INFO- * Restarting with stat
+2022-06-10 12:52:53,286-Start1-INFO-started with app module
+2022-06-10 12:52:53,295-werkzeug-WARNING- * Debugger is active!
+2022-06-10 12:52:53,305-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 12:53:02,490-Start1-INFO-started with app module
+2022-06-10 12:53:02,504-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 12:53:02,508-werkzeug-INFO- * Restarting with stat
+2022-06-10 12:53:03,007-Start1-INFO-started with app module
+2022-06-10 12:53:03,016-werkzeug-WARNING- * Debugger is active!
+2022-06-10 12:53:03,026-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 12:53:06,486-start3-INFO-started with math_operation 
+2022-06-10 12:53:06,495-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:53:06] "POST /file HTTP/1.1" 200 -
+2022-06-10 12:53:06,503-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:53:06] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 12:53:06,505-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:53:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 12:54:30,591-Start1-INFO-started with app module
+2022-06-10 12:54:30,605-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 12:54:30,609-werkzeug-INFO- * Restarting with stat
+2022-06-10 12:54:31,095-Start1-INFO-started with app module
+2022-06-10 12:54:31,104-werkzeug-WARNING- * Debugger is active!
+2022-06-10 12:54:31,113-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 12:54:36,830-start3-INFO-started with math_operation 
+2022-06-10 12:54:36,837-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:54:36] "POST /file HTTP/1.1" 200 -
+2022-06-10 12:54:36,846-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:54:36] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 12:54:36,849-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:54:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 12:55:53,778-Start1-INFO-started with app module
+2022-06-10 12:55:53,793-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 12:55:53,796-werkzeug-INFO- * Restarting with stat
+2022-06-10 12:55:54,301-Start1-INFO-started with app module
+2022-06-10 12:55:54,311-werkzeug-WARNING- * Debugger is active!
+2022-06-10 12:55:54,321-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 12:56:00,661-start3-INFO-started with math_operation 
+2022-06-10 12:56:00,669-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:56:00] "POST /file HTTP/1.1" 200 -
+2022-06-10 12:56:00,680-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:56:00] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 12:56:00,683-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:56:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 12:56:38,233-Start1-INFO-started with app module
+2022-06-10 12:56:38,247-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 12:56:38,250-werkzeug-INFO- * Restarting with stat
+2022-06-10 12:56:38,755-Start1-INFO-started with app module
+2022-06-10 12:56:38,764-werkzeug-WARNING- * Debugger is active!
+2022-06-10 12:56:38,773-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 12:56:43,109-start3-INFO-started with math_operation 
+2022-06-10 12:56:43,117-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:56:43] "POST /file HTTP/1.1" 200 -
+2022-06-10 12:56:43,125-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:56:43] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 12:56:43,127-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:56:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 12:57:07,801-Start1-INFO-started with app module
+2022-06-10 12:57:07,818-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 12:57:07,824-werkzeug-INFO- * Restarting with stat
+2022-06-10 12:57:08,345-Start1-INFO-started with app module
+2022-06-10 12:57:08,355-werkzeug-WARNING- * Debugger is active!
+2022-06-10 12:57:08,364-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 12:57:11,214-start3-INFO-started with math_operation 
+2022-06-10 12:57:11,221-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:57:11] "POST /file HTTP/1.1" 200 -
+2022-06-10 12:57:11,229-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:57:11] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 12:57:11,231-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:57:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 12:58:10,834-start3-INFO-started with math_operation 
+2022-06-10 12:58:10,836-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:58:10] "POST /file HTTP/1.1" 200 -
+2022-06-10 12:58:10,846-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:58:10] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 12:58:10,847-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 12:58:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 13:01:07,880-Start1-INFO-started with app module
+2022-06-10 13:01:07,895-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 13:01:07,899-werkzeug-INFO- * Restarting with stat
+2022-06-10 13:01:08,387-Start1-INFO-started with app module
+2022-06-10 13:01:08,396-werkzeug-WARNING- * Debugger is active!
+2022-06-10 13:01:08,406-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 13:01:24,805-start3-INFO-started with math_operation 
+2022-06-10 13:01:24,813-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:01:24] "POST /file HTTP/1.1" 200 -
+2022-06-10 13:01:24,824-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:01:24] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 13:01:24,826-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:01:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 13:01:46,669-start3-INFO-started with math_operation 
+2022-06-10 13:01:46,671-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:01:46] "POST /file HTTP/1.1" 200 -
+2022-06-10 13:01:46,684-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:01:46] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 13:01:46,686-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:01:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 13:02:26,810-start3-INFO-started with math_operation 
+2022-06-10 13:02:26,813-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:02:26] "POST /file HTTP/1.1" 200 -
+2022-06-10 13:02:26,822-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:02:26] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 13:02:26,825-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:02:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 13:03:20,394-start3-INFO-started with math_operation 
+2022-06-10 13:03:20,396-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:03:20] "POST /file HTTP/1.1" 200 -
+2022-06-10 13:03:20,404-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:03:20] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 13:03:20,406-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:03:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 13:04:14,525-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\getfile.py', reloading
+2022-06-10 13:04:14,553-werkzeug-INFO- * Restarting with stat
+2022-06-10 13:04:17,604-Start1-INFO-started with app module
+2022-06-10 13:04:17,615-werkzeug-WARNING- * Debugger is active!
+2022-06-10 13:04:17,625-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 13:04:24,310-Start1-INFO-started with app module
+2022-06-10 13:04:24,324-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 13:04:24,327-werkzeug-INFO- * Restarting with stat
+2022-06-10 13:04:24,814-Start1-INFO-started with app module
+2022-06-10 13:04:24,823-werkzeug-WARNING- * Debugger is active!
+2022-06-10 13:04:24,832-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 13:04:57,270-start3-INFO-started with math_operation 
+2022-06-10 13:04:57,288-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:04:57] "[35m[1mPOST /file HTTP/1.1[0m" 500 -
+2022-06-10 13:04:57,296-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:04:57] "[36mGET /file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-10 13:04:57,297-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:04:57] "[36mGET /file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-10 13:04:57,306-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:04:57] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 13:04:57,315-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:04:57] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 13:05:25,851-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\getfile.py', reloading
+2022-06-10 13:05:25,872-werkzeug-INFO- * Restarting with stat
+2022-06-10 13:05:26,364-Start1-INFO-started with app module
+2022-06-10 13:05:26,374-werkzeug-WARNING- * Debugger is active!
+2022-06-10 13:05:26,384-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 13:05:36,116-Start1-INFO-started with app module
+2022-06-10 13:05:36,132-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 13:05:36,135-werkzeug-INFO- * Restarting with stat
+2022-06-10 13:05:36,658-Start1-INFO-started with app module
+2022-06-10 13:05:36,667-werkzeug-WARNING- * Debugger is active!
+2022-06-10 13:05:36,677-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 13:05:39,910-start3-INFO-started with math_operation 
+2022-06-10 13:05:39,919-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:05:39] "POST /file HTTP/1.1" 200 -
+2022-06-10 13:05:39,929-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:05:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 13:05:39,931-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:05:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 13:05:54,934-start3-INFO-started with math_operation 
+2022-06-10 13:05:54,935-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:05:54] "POST /file HTTP/1.1" 200 -
+2022-06-10 13:05:54,945-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:05:54] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 13:05:54,947-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:05:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 13:06:12,789-start3-INFO-started with math_operation 
+2022-06-10 13:06:12,790-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:06:12] "POST /file HTTP/1.1" 200 -
+2022-06-10 13:06:12,801-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:06:12] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 13:06:12,802-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:06:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 13:06:57,610-start3-INFO-started with math_operation 
+2022-06-10 13:06:57,612-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:06:57] "POST /file HTTP/1.1" 200 -
+2022-06-10 13:06:57,623-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:06:57] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 13:06:57,625-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 13:06:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 18:21:39,579-Start1-INFO-started with app module
+2022-06-10 18:21:39,644-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 18:21:39,660-werkzeug-INFO- * Restarting with stat
+2022-06-10 18:21:40,764-Start1-INFO-started with app module
+2022-06-10 18:21:40,791-werkzeug-WARNING- * Debugger is active!
+2022-06-10 18:21:40,818-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 18:21:46,942-start3-INFO-started with math_operation 
+2022-06-10 18:21:46,946-getfile-INFO-started with searchfile 
+2022-06-10 18:21:46,946-File_processor-INFO-started with process_file 
+2022-06-10 18:21:46,947-search_file-INFO-started with find_text 
+2022-06-10 18:21:46,955-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 18:21:46] "POST /file HTTP/1.1" 200 -
+2022-06-10 18:21:46,969-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 18:21:46] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 18:21:46,972-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 18:21:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 18:23:30,795-Start1-INFO-started with app module
+2022-06-10 18:23:30,814-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 18:23:30,819-werkzeug-INFO- * Restarting with stat
+2022-06-10 18:23:31,983-Start1-INFO-started with app module
+2022-06-10 18:23:31,997-werkzeug-WARNING- * Debugger is active!
+2022-06-10 18:23:32,011-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 18:23:38,652-start3-INFO-started with file_operation 
+2022-06-10 18:23:38,654-getfile-INFO-started with searchfile 
+2022-06-10 18:23:38,654-File_processor-INFO-started with process_file 
+2022-06-10 18:23:38,654-search_file-INFO-started with find_text 
+2022-06-10 18:23:38,662-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 18:23:38] "POST /file HTTP/1.1" 200 -
+2022-06-10 18:23:38,670-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 18:23:38] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 18:23:38,673-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 18:23:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 18:49:17,779-Start1-INFO-started with app module
+2022-06-10 18:49:17,798-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 18:49:17,804-werkzeug-INFO- * Restarting with stat
+2022-06-10 18:49:18,846-Start1-INFO-started with app module
+2022-06-10 18:49:18,859-werkzeug-WARNING- * Debugger is active!
+2022-06-10 18:49:18,871-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 18:49:24,293-start3-INFO-started with file_operation 
+2022-06-10 18:49:24,294-getfile-INFO-started with searchfile 
+2022-06-10 18:49:24,295-File_processor-INFO-started with process_file 
+2022-06-10 18:49:24,295-search_file-INFO-started with find_text 
+2022-06-10 18:49:24,302-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 18:49:24] "POST /file HTTP/1.1" 200 -
+2022-06-10 18:49:24,312-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 18:49:24] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 18:49:24,315-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 18:49:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 19:05:46,390-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\search_file.py', reloading
+2022-06-10 19:05:46,418-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:05:52,353-Start1-INFO-started with app module
+2022-06-10 19:05:52,367-werkzeug-WARNING- * Debugger is active!
+2022-06-10 19:05:52,381-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 19:09:43,094-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\app.py', reloading
+2022-06-10 19:09:43,149-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:09:48,927-Start1-INFO-started with app module
+2022-06-10 19:09:48,941-werkzeug-WARNING- * Debugger is active!
+2022-06-10 19:09:48,954-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 19:11:01,290-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\app.py', reloading
+2022-06-10 19:11:01,326-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:14:45,403-Start1-INFO-started with app module
+2022-06-10 19:14:45,435-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 19:14:45,445-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:14:46,479-Start1-INFO-started with app module
+2022-06-10 19:14:46,495-werkzeug-WARNING- * Debugger is active!
+2022-06-10 19:14:46,508-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 19:14:53,818-start3-INFO-started with file_operation 
+2022-06-10 19:14:53,820-getfile-INFO-started with searchfile 
+2022-06-10 19:14:53,820-File_processor-INFO-started with process_file 
+2022-06-10 19:14:53,821-search_file-INFO-started with find_text 
+2022-06-10 19:14:53,829-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:14:53] "POST /file HTTP/1.1" 200 -
+2022-06-10 19:14:53,840-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:14:53] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 19:14:53,843-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:14:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 19:17:18,572-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\app.py', reloading
+2022-06-10 19:17:18,622-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:18:52,112-Start1-INFO-started with app module
+2022-06-10 19:18:52,136-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 19:18:52,141-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:18:53,092-Start1-INFO-started with app module
+2022-06-10 19:18:53,105-werkzeug-WARNING- * Debugger is active!
+2022-06-10 19:18:53,119-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 19:18:58,405-start3-INFO-started with file_operation 
+2022-06-10 19:18:58,406-getfile-INFO-started with searchfile 
+2022-06-10 19:18:58,406-File_processor-INFO-started with process_file 
+2022-06-10 19:18:58,407-search_file-INFO-started with find_text 
+2022-06-10 19:18:58,431-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:18:58] "[35m[1mPOST /file HTTP/1.1[0m" 500 -
+2022-06-10 19:18:58,447-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:18:58] "[36mGET /file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-10 19:18:58,448-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:18:58] "[36mGET /file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-10 19:18:58,536-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:18:58] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 19:18:58,562-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:18:58] "[36mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-10 19:19:46,039-Start1-INFO-started with app module
+2022-06-10 19:19:46,063-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 19:19:46,068-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:19:46,966-Start1-INFO-started with app module
+2022-06-10 19:19:46,983-werkzeug-WARNING- * Debugger is active!
+2022-06-10 19:19:47,000-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 19:19:51,554-start3-INFO-started with file_operation 
+2022-06-10 19:19:51,556-getfile-INFO-started with searchfile 
+2022-06-10 19:19:51,556-File_processor-INFO-started with process_file 
+2022-06-10 19:19:51,556-search_file-INFO-started with find_text 
+2022-06-10 19:19:51,557-app-INFO-File Editing is successful
+2022-06-10 19:19:51,564-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:19:51] "POST /file HTTP/1.1" 200 -
+2022-06-10 19:19:51,574-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:19:51] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 19:19:51,577-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:19:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 19:23:43,791-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\File_processor.py', reloading
+2022-06-10 19:23:43,889-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:33:08,555-Start1-INFO-started with app module
+2022-06-10 19:33:08,614-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 19:33:08,627-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:33:09,724-Start1-INFO-started with app module
+2022-06-10 19:33:09,737-werkzeug-WARNING- * Debugger is active!
+2022-06-10 19:33:09,752-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 19:33:27,337-start3-INFO-started with file_operation 
+2022-06-10 19:33:27,339-getfile-INFO-started with searchfile 
+2022-06-10 19:33:27,339-File_processor-INFO-started with process_file 
+2022-06-10 19:33:27,340-search_file-INFO-started with find_text 
+2022-06-10 19:33:27,341-app-INFO-File Editing is successful
+2022-06-10 19:33:27,351-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:33:27] "POST /file HTTP/1.1" 200 -
+2022-06-10 19:33:27,362-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:33:27] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 19:33:27,365-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:33:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 19:45:31,767-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\getfile.py', reloading
+2022-06-10 19:45:31,861-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:46:05,300-Start1-INFO-started with app module
+2022-06-10 19:46:05,358-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 19:46:05,370-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:46:06,544-Start1-INFO-started with app module
+2022-06-10 19:46:06,557-werkzeug-WARNING- * Debugger is active!
+2022-06-10 19:46:06,570-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 19:47:26,344-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\app.py', reloading
+2022-06-10 19:47:26,433-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:47:27,522-Start1-INFO-started with app module
+2022-06-10 19:47:27,540-werkzeug-WARNING- * Debugger is active!
+2022-06-10 19:47:27,559-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 19:47:31,063-start3-INFO-started with file_operation 
+2022-06-10 19:47:31,064-getfile-INFO-started with search file
+2022-06-10 19:47:31,064-getfile-INFO-File found
+2022-06-10 19:47:31,064-File_processor-INFO-started with process_file 
+2022-06-10 19:47:31,065-search_file-INFO-started with find_text 
+2022-06-10 19:47:31,065-search_file-INFO-Searching file content for the given text is successful
+2022-06-10 19:47:31,066-app-INFO-File Editing is successful
+2022-06-10 19:47:31,074-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:47:31] "POST /file HTTP/1.1" 200 -
+2022-06-10 19:47:31,083-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:47:31] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 19:47:31,085-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:47:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 19:48:38,054-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\File_processor.py', reloading
+2022-06-10 19:48:38,133-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:48:39,465-Start1-INFO-started with app module
+2022-06-10 19:48:39,480-werkzeug-WARNING- * Debugger is active!
+2022-06-10 19:48:39,494-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 19:49:03,436-Start1-INFO-started with app module
+2022-06-10 19:49:03,493-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 19:49:03,507-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:49:04,550-Start1-INFO-started with app module
+2022-06-10 19:49:04,568-werkzeug-WARNING- * Debugger is active!
+2022-06-10 19:49:04,582-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 19:49:06,610-start3-INFO-started with file_operation 
+2022-06-10 19:49:06,611-getfile-INFO-started with search file
+2022-06-10 19:49:06,611-getfile-INFO-File found
+2022-06-10 19:49:06,612-File_processor-INFO-started with process_file 
+2022-06-10 19:49:06,612-search_file-INFO-started with find_text 
+2022-06-10 19:49:06,612-search_file-INFO-Searching file content for the given text is successful
+2022-06-10 19:49:06,613-File_processor-INFO-File processed successfully
+2022-06-10 19:49:06,613-app-INFO-File Editing is successful
+2022-06-10 19:49:06,623-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:49:06] "POST /file HTTP/1.1" 200 -
+2022-06-10 19:49:06,633-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:49:06] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 19:49:06,637-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:49:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 19:49:45,690-start3-INFO-started with file_operation 
+2022-06-10 19:49:45,691-getfile-INFO-started with search file
+2022-06-10 19:49:45,691-getfile-INFO-File found
+2022-06-10 19:49:45,691-File_processor-INFO-started with process_file 
+2022-06-10 19:49:45,691-search_file-INFO-started with find_text 
+2022-06-10 19:49:45,692-search_file-INFO-Searching file content for the given text is successful
+2022-06-10 19:49:45,692-search_file-INFO-started with find_text 
+2022-06-10 19:49:45,692-search_file-INFO-Searching file content for the given text is successful
+2022-06-10 19:49:45,693-File_processor-INFO-File processed successfully
+2022-06-10 19:49:45,693-app-INFO-File Editing is successful
+2022-06-10 19:49:45,694-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:49:45] "POST /file HTTP/1.1" 200 -
+2022-06-10 19:49:45,706-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:49:45] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 19:49:45,710-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:49:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 19:50:03,266-start3-INFO-started with file_operation 
+2022-06-10 19:50:03,266-getfile-INFO-started with search file
+2022-06-10 19:50:03,266-getfile-INFO-File found
+2022-06-10 19:50:03,266-File_processor-INFO-started with process_file 
+2022-06-10 19:50:03,267-search_file-INFO-started with find_text 
+2022-06-10 19:50:03,267-search_file-INFO-Searching file content for the given text is successful
+2022-06-10 19:50:03,267-search_file-INFO-started with find_text 
+2022-06-10 19:50:03,267-search_file-INFO-Searching file content for the given text is successful
+2022-06-10 19:50:03,268-File_processor-INFO-File processed successfully
+2022-06-10 19:50:03,268-app-INFO-File Editing is successful
+2022-06-10 19:50:03,269-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:50:03] "POST /file HTTP/1.1" 200 -
+2022-06-10 19:50:03,279-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:50:03] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 19:50:03,281-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:50:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 19:50:38,721-start3-INFO-started with file_operation 
+2022-06-10 19:50:38,722-getfile-INFO-started with search file
+2022-06-10 19:50:38,722-getfile-INFO-File found
+2022-06-10 19:50:38,722-app-INFO-File Editing is successful
+2022-06-10 19:50:38,727-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:50:38] "POST /file HTTP/1.1" 200 -
+2022-06-10 19:50:38,740-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:50:38] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 19:50:38,742-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:50:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 19:52:49,887-Start1-INFO-started with app module
+2022-06-10 19:52:49,916-werkzeug-INFO- * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-10 19:52:49,924-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:52:51,114-Start1-INFO-started with app module
+2022-06-10 19:52:51,128-werkzeug-WARNING- * Debugger is active!
+2022-06-10 19:52:51,141-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 19:53:19,666-start3-INFO-started with file_operation 
+2022-06-10 19:53:19,668-getfile-INFO-started with search file
+2022-06-10 19:53:19,668-getfile-INFO-getfile module ran fine
+2022-06-10 19:53:19,668-app-INFO-File Editing is successful
+2022-06-10 19:53:19,675-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:53:19] "POST /file HTTP/1.1" 200 -
+2022-06-10 19:53:19,685-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:53:19] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 19:53:19,688-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 19:53:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 19:56:59,814-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\app.py', reloading
+2022-06-10 19:56:59,890-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:57:00,851-Start1-INFO-started with app module
+2022-06-10 19:57:00,866-werkzeug-WARNING- * Debugger is active!
+2022-06-10 19:57:00,877-werkzeug-INFO- * Debugger PIN: 129-735-176
+2022-06-10 19:57:27,718-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\app.py', reloading
+2022-06-10 19:57:27,771-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:58:41,728-Start1-INFO-started with app module
+2022-06-10 19:58:41,749-werkzeug-INFO- * Restarting with stat
+2022-06-10 19:58:42,562-Start1-INFO-started with app module
+2022-06-10 19:58:42,584-werkzeug-WARNING- * Debugger is active!
+2022-06-10 19:58:42,598-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-10 19:58:42,625-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-10 20:04:44,802-Start1-INFO-started with app module
+2022-06-10 20:04:44,846-werkzeug-INFO- * Restarting with stat
+2022-06-10 20:04:45,851-Start1-INFO-started with app module
+2022-06-10 20:04:45,864-werkzeug-WARNING- * Debugger is active!
+2022-06-10 20:04:45,874-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-10 20:04:45,901-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-10 20:11:14,431-start3-INFO-started with file_operation 
+2022-06-10 20:11:14,433-getfile-INFO-started with search file
+2022-06-10 20:11:14,433-getfile-INFO-getfile module ran fine
+2022-06-10 20:11:14,433-File_processor-INFO-started with process_file 
+2022-06-10 20:11:14,433-search_file-INFO-started with find_text 
+2022-06-10 20:11:14,434-search_file-INFO-Searching file content for the given text is successful
+2022-06-10 20:11:14,434-search_file-INFO-started with find_text 
+2022-06-10 20:11:14,434-search_file-INFO-Searching file content for the given text is successful
+2022-06-10 20:11:14,435-File_processor-INFO-File processed successfully
+2022-06-10 20:11:14,435-app-INFO-File Editing is successful
+2022-06-10 20:11:14,442-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 20:11:14] "[37mPOST /file HTTP/1.1[0m" 200 -
+2022-06-10 20:11:14,451-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 20:11:14] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-10 20:11:14,454-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 20:11:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-10 20:56:58,671-Start1-INFO-started with app module
+2022-06-10 20:56:58,686-werkzeug-INFO- * Restarting with stat
+2022-06-10 20:56:59,167-Start1-INFO-started with app module
+2022-06-10 20:56:59,177-werkzeug-WARNING- * Debugger is active!
+2022-06-10 20:56:59,186-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-10 20:56:59,203-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-10 20:57:28,036-start2-INFO-started with home page 
+2022-06-10 20:57:28,044-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 20:57:28] "[37mGET / HTTP/1.1[0m" 200 -
+2022-06-10 21:00:01,019-start3-INFO-started with file_operation 
+2022-06-10 21:00:01,020-getfile-INFO-started with search file
+2022-06-10 21:00:01,020-getfile-INFO-getfile module ran fine
+2022-06-10 21:00:01,020-File_processor-INFO-started with process_file 
+2022-06-10 21:00:01,021-search_file-INFO-started with find_text 
+2022-06-10 21:00:01,021-search_file-INFO-Searching file content for the given text is successful
+2022-06-10 21:00:01,021-search_file-INFO-started with find_text 
+2022-06-10 21:00:01,021-search_file-INFO-Searching file content for the given text is successful
+2022-06-10 21:00:01,022-File_processor-INFO-File processed successfully
+2022-06-10 21:00:01,022-app-INFO-File Editing is successful
+2022-06-10 21:00:01,025-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 21:00:01] "[37mPOST /file HTTP/1.1[0m" 200 -
+2022-06-10 21:00:01,035-werkzeug-INFO-127.0.0.1 - - [10/Jun/2022 21:00:01] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-11 00:05:40,229-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\getfile.py', reloading
+2022-06-11 00:05:40,265-werkzeug-INFO- * Restarting with stat
+2022-06-11 00:24:44,409-Start1-INFO-started with app module
+2022-06-11 00:24:44,450-werkzeug-INFO- * Restarting with stat
+2022-06-11 00:24:45,348-Start1-INFO-started with app module
+2022-06-11 00:24:45,363-werkzeug-WARNING- * Debugger is active!
+2022-06-11 00:24:45,375-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 00:24:45,397-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 00:36:47,898-Start1-INFO-started with app module
+2022-06-11 00:36:47,939-werkzeug-INFO- * Restarting with stat
+2022-06-11 00:36:49,114-Start1-INFO-started with app module
+2022-06-11 00:36:49,133-werkzeug-WARNING- * Debugger is active!
+2022-06-11 00:36:49,161-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 00:36:49,205-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 00:37:15,555-start2-INFO-started with home page 
+2022-06-11 00:37:15,565-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 00:37:15] "[37mGET / HTTP/1.1[0m" 200 -
+2022-06-11 00:37:28,974-start3-INFO-started with file_operation 
+2022-06-11 00:37:28,976-getfile-INFO-started with search file
+2022-06-11 00:37:28,976-getfile-ERROR-Error occurred while checking for file availability
+2022-06-11 00:37:28,977-getfile-ERROR-name 'fullname' is not defined
+Traceback (most recent call last):
+  File "D:\user\jupyternotes\pycharm\FileEditor\getfile.py", line 14, in searchfile
+    print('fullname=',fullname)
+NameError: name 'fullname' is not defined
+2022-06-11 00:37:28,980-app-ERROR-Error occurred while performing file editing operations
+2022-06-11 00:37:28,980-app-ERROR-cannot unpack non-iterable NoneType object
+Traceback (most recent call last):
+  File "D:\user\jupyternotes\pycharm\FileEditor\app.py", line 53, in file_operation
+    file,rcode,rmessage=getfile.searchfile(filename,filepath)
+TypeError: cannot unpack non-iterable NoneType object
+2022-06-11 00:37:29,028-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 00:37:29] "[35m[1mPOST /file HTTP/1.1[0m" 500 -
+2022-06-11 00:37:29,040-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 00:37:29] "[37mGET /file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2022-06-11 00:37:29,041-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 00:37:29] "[37mGET /file?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2022-06-11 00:37:29,042-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 00:37:29] "[37mGET /file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2022-06-11 00:37:29,093-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 00:37:29] "[37mGET /file?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2022-06-11 00:37:29,116-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 00:37:29] "[37mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2022-06-11 00:37:29,148-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 00:37:29] "[37mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2022-06-11 00:39:17,813-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\getfile.py', reloading
+2022-06-11 00:39:17,841-werkzeug-INFO- * Restarting with stat
+2022-06-11 00:39:23,851-Start1-INFO-started with app module
+2022-06-11 00:39:23,891-werkzeug-WARNING- * Debugger is active!
+2022-06-11 00:39:23,924-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 00:39:23,969-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 00:39:27,719-Start1-INFO-started with app module
+2022-06-11 00:39:27,739-werkzeug-INFO- * Restarting with stat
+2022-06-11 00:39:28,742-Start1-INFO-started with app module
+2022-06-11 00:39:28,757-werkzeug-WARNING- * Debugger is active!
+2022-06-11 00:39:28,773-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 00:39:28,797-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 00:39:33,597-start3-INFO-started with file_operation 
+2022-06-11 00:39:33,598-getfile-INFO-started with search file
+2022-06-11 00:39:33,598-getfile-INFO-getfile module ran fine
+2022-06-11 00:39:33,598-File_processor-INFO-started with process_file 
+2022-06-11 00:39:33,599-search_file-INFO-started with find_text 
+2022-06-11 00:39:33,599-search_file-INFO-Searching file content for the given text is successful
+2022-06-11 00:39:33,599-search_file-INFO-started with find_text 
+2022-06-11 00:39:33,600-search_file-INFO-Searching file content for the given text is successful
+2022-06-11 00:39:33,601-File_processor-INFO-File processed successfully
+2022-06-11 00:39:33,601-app-INFO-File Editing is successful
+2022-06-11 00:39:33,608-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 00:39:33] "[37mPOST /file HTTP/1.1[0m" 200 -
+2022-06-11 00:39:33,618-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 00:39:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-11 00:40:55,457-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\getfile.py', reloading
+2022-06-11 00:40:55,594-werkzeug-INFO- * Restarting with stat
+2022-06-11 00:40:56,396-Start1-INFO-started with app module
+2022-06-11 00:40:56,412-werkzeug-WARNING- * Debugger is active!
+2022-06-11 00:40:56,424-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 00:40:56,447-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 00:41:11,638-Start1-INFO-started with app module
+2022-06-11 00:41:11,660-werkzeug-INFO- * Restarting with stat
+2022-06-11 00:41:12,466-Start1-INFO-started with app module
+2022-06-11 00:41:12,500-werkzeug-WARNING- * Debugger is active!
+2022-06-11 00:41:12,525-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 00:41:12,571-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 00:41:19,405-start3-INFO-started with file_operation 
+2022-06-11 00:41:19,407-getfile-INFO-started with search file
+2022-06-11 00:41:19,407-getfile-INFO-getfile module ran fine
+2022-06-11 00:41:19,407-File_processor-INFO-started with process_file 
+2022-06-11 00:41:19,408-search_file-INFO-started with find_text 
+2022-06-11 00:41:19,408-search_file-INFO-Searching file content for the given text is successful
+2022-06-11 00:41:19,408-search_file-INFO-started with find_text 
+2022-06-11 00:41:19,408-search_file-INFO-Searching file content for the given text is successful
+2022-06-11 00:41:19,410-File_processor-INFO-File processed successfully
+2022-06-11 00:41:19,410-app-INFO-File Editing is successful
+2022-06-11 00:41:19,416-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 00:41:19] "[37mPOST /file HTTP/1.1[0m" 200 -
+2022-06-11 00:41:19,426-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 00:41:19] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-11 00:42:18,331-Start1-INFO-started with app module
+2022-06-11 00:42:18,353-werkzeug-INFO- * Restarting with stat
+2022-06-11 00:42:19,306-Start1-INFO-started with app module
+2022-06-11 00:42:19,321-werkzeug-WARNING- * Debugger is active!
+2022-06-11 00:42:19,340-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 00:42:19,365-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 00:42:50,909-Start1-INFO-started with app module
+2022-06-11 00:42:50,930-werkzeug-INFO- * Restarting with stat
+2022-06-11 00:42:52,030-Start1-INFO-started with app module
+2022-06-11 00:42:52,061-werkzeug-WARNING- * Debugger is active!
+2022-06-11 00:42:52,076-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 00:42:52,102-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 00:42:54,150-start3-INFO-started with file_operation 
+2022-06-11 00:42:54,152-getfile-INFO-started with search file
+2022-06-11 00:42:54,152-getfile-INFO-getfile module ran fine
+2022-06-11 00:42:54,152-File_processor-INFO-started with process_file 
+2022-06-11 00:42:54,152-search_file-INFO-started with find_text 
+2022-06-11 00:42:54,153-search_file-INFO-Searching file content for the given text is successful
+2022-06-11 00:42:54,153-search_file-INFO-started with find_text 
+2022-06-11 00:42:54,153-search_file-INFO-Searching file content for the given text is successful
+2022-06-11 00:42:54,154-File_processor-INFO-File processed successfully
+2022-06-11 00:42:54,154-app-INFO-File Editing is successful
+2022-06-11 00:42:54,162-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 00:42:54] "[37mPOST /file HTTP/1.1[0m" 200 -
+2022-06-11 00:42:54,171-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 00:42:54] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-11 01:00:51,488-Start1-INFO-started with app module
+2022-06-11 01:00:51,512-werkzeug-INFO- * Restarting with stat
+2022-06-11 01:00:52,481-Start1-INFO-started with app module
+2022-06-11 01:00:52,520-werkzeug-WARNING- * Debugger is active!
+2022-06-11 01:00:52,551-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 01:00:52,596-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 01:01:05,801-start3-INFO-started with file_operation 
+2022-06-11 01:01:05,802-getfile-INFO-started with search file
+2022-06-11 01:01:05,803-getfile-INFO-getfile module ran fine
+2022-06-11 01:01:05,803-File_processor-INFO-started with process_file 
+2022-06-11 01:01:05,803-search_file-INFO-started with find_text 
+2022-06-11 01:01:05,804-search_file-INFO-Searching file content for the given text is successful
+2022-06-11 01:01:05,804-search_file-INFO-started with find_text 
+2022-06-11 01:01:05,804-search_file-INFO-Searching file content for the given text is successful
+2022-06-11 01:01:05,804-File_processor-INFO-File processed successfully
+2022-06-11 01:01:05,804-app-INFO-File Editing is successful
+2022-06-11 01:01:05,814-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 01:01:05] "[37mPOST /file HTTP/1.1[0m" 200 -
+2022-06-11 01:01:05,824-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 01:01:05] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-11 22:36:29,598-Start1-INFO-started with app module
+2022-06-11 22:36:29,631-werkzeug-INFO- * Restarting with stat
+2022-06-11 22:36:30,105-Start1-INFO-started with app module
+2022-06-11 22:36:30,115-werkzeug-WARNING- * Debugger is active!
+2022-06-11 22:36:30,125-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 22:36:30,142-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 22:36:57,012-start2-INFO-started with home page 
+2022-06-11 22:36:57,020-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 22:36:57] "[37mGET / HTTP/1.1[0m" 200 -
+2022-06-11 22:36:57,038-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 22:36:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-11 22:36:58,250-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 22:36:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-06-11 22:37:17,073-start3-INFO-started with file_operation 
+2022-06-11 22:37:17,078-getfile-INFO-started with search file
+2022-06-11 22:37:17,078-getfile-INFO-getfile module ran fine
+2022-06-11 22:37:17,078-File_processor-INFO-started with process_file 
+2022-06-11 22:37:17,079-search_file-INFO-started with find_text 
+2022-06-11 22:37:17,079-search_file-INFO-Searching file content for the given text is successful
+2022-06-11 22:37:17,079-search_file-INFO-started with find_text 
+2022-06-11 22:37:17,079-search_file-INFO-Searching file content for the given text is successful
+2022-06-11 22:37:17,080-File_processor-INFO-File processed successfully
+2022-06-11 22:37:17,080-app-INFO-File Editing is successful
+2022-06-11 22:37:17,082-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 22:37:17] "[37mPOST /file HTTP/1.1[0m" 200 -
+2022-06-11 22:37:17,093-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 22:37:17] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-11 22:42:48,750-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\getfile.py', reloading
+2022-06-11 22:42:48,767-werkzeug-INFO- * Restarting with stat
+2022-06-11 22:44:09,672-Start1-INFO-started with app module
+2022-06-11 22:44:09,687-werkzeug-INFO- * Restarting with stat
+2022-06-11 22:44:10,159-Start1-INFO-started with app module
+2022-06-11 22:44:10,168-werkzeug-WARNING- * Debugger is active!
+2022-06-11 22:44:10,176-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 22:44:10,189-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 22:44:19,710-start3-INFO-started with file_operation 
+2022-06-11 22:44:19,712-getfile-INFO-started with search file
+2022-06-11 22:44:19,712-getfile-INFO-getfile module ran fine
+2022-06-11 22:44:19,712-app-ERROR-Error occurred while performing file editing operations
+2022-06-11 22:44:19,712-app-ERROR-name 'rmessage' is not defined
+Traceback (most recent call last):
+  File "D:\user\jupyternotes\pycharm\FileEditor\app.py", line 53, in file_operation
+    file,rcode,rmessage=getfile.searchfile(filename,filepath)
+  File "D:\user\jupyternotes\pycharm\FileEditor\getfile.py", line 31, in searchfile
+    return fullfile,rcode,rmessage
+NameError: name 'rmessage' is not defined
+2022-06-11 22:44:19,745-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 22:44:19] "[35m[1mPOST /file HTTP/1.1[0m" 500 -
+2022-06-11 22:44:19,752-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 22:44:19] "[37mGET /file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2022-06-11 22:44:19,752-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 22:44:19] "[37mGET /file?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2022-06-11 22:44:19,753-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 22:44:19] "[37mGET /file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2022-06-11 22:44:19,794-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 22:44:19] "[37mGET /file?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2022-06-11 22:44:19,810-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 22:44:19] "[37mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2022-06-11 22:44:19,836-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 22:44:19] "[37mGET /file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2022-06-11 22:45:30,347-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\getfile.py', reloading
+2022-06-11 22:45:30,371-werkzeug-INFO- * Restarting with stat
+2022-06-11 22:45:30,878-Start1-INFO-started with app module
+2022-06-11 22:45:30,888-werkzeug-WARNING- * Debugger is active!
+2022-06-11 22:45:30,896-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 22:45:30,913-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 22:45:34,918-Start1-INFO-started with app module
+2022-06-11 22:45:34,934-werkzeug-INFO- * Restarting with stat
+2022-06-11 22:45:35,443-Start1-INFO-started with app module
+2022-06-11 22:45:35,453-werkzeug-WARNING- * Debugger is active!
+2022-06-11 22:45:35,462-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 22:45:35,475-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 22:45:39,088-start3-INFO-started with file_operation 
+2022-06-11 22:45:39,089-getfile-INFO-started with search file
+2022-06-11 22:45:39,089-getfile-INFO-getfile module ran fine
+2022-06-11 22:45:39,089-File_processor-INFO-started with process_file 
+2022-06-11 22:45:39,090-search_file-INFO-started with find_text 
+2022-06-11 22:45:39,090-search_file-INFO-Searching file content for the given text is successful
+2022-06-11 22:45:39,090-search_file-INFO-started with find_text 
+2022-06-11 22:45:39,090-search_file-INFO-Searching file content for the given text is successful
+2022-06-11 22:45:39,091-File_processor-INFO-File processed successfully
+2022-06-11 22:45:39,091-app-INFO-File Editing is successful
+2022-06-11 22:45:39,095-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 22:45:39] "[37mPOST /file HTTP/1.1[0m" 200 -
+2022-06-11 22:45:39,102-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 22:45:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-11 23:49:29,872-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\getfile.py', reloading
+2022-06-11 23:49:29,890-werkzeug-INFO- * Restarting with stat
+2022-06-11 23:49:30,500-Start1-INFO-started with app module
+2022-06-11 23:49:30,510-werkzeug-WARNING- * Debugger is active!
+2022-06-11 23:49:30,518-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 23:49:30,531-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 23:49:40,255-Start1-INFO-started with app module
+2022-06-11 23:49:40,270-werkzeug-INFO- * Restarting with stat
+2022-06-11 23:49:40,805-Start1-INFO-started with app module
+2022-06-11 23:49:40,815-werkzeug-WARNING- * Debugger is active!
+2022-06-11 23:49:40,824-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 23:49:40,835-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 23:53:13,292-werkzeug-INFO- * Detected change in 'D:\\user\\jupyternotes\\pycharm\\FileEditor\\getfile.py', reloading
+2022-06-11 23:53:13,311-werkzeug-INFO- * Restarting with stat
+2022-06-11 23:53:16,317-Start1-INFO-started with app module
+2022-06-11 23:53:16,327-werkzeug-WARNING- * Debugger is active!
+2022-06-11 23:53:16,336-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 23:53:16,355-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 23:53:27,071-Start1-INFO-started with app module
+2022-06-11 23:53:27,086-werkzeug-INFO- * Restarting with stat
+2022-06-11 23:53:27,574-Start1-INFO-started with app module
+2022-06-11 23:53:27,584-werkzeug-WARNING- * Debugger is active!
+2022-06-11 23:53:27,593-werkzeug-INFO- * Debugger PIN: 423-758-539
+2022-06-11 23:53:27,605-werkzeug-INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-11 23:53:40,049-start3-INFO-started with file_operation 
+2022-06-11 23:53:40,050-getfile-INFO-started with search file
+2022-06-11 23:53:40,050-getfile-INFO-getfile module ran fine
+2022-06-11 23:53:40,050-File_processor-INFO-started with process_file 
+2022-06-11 23:53:40,051-search_file-INFO-started with find_text 
+2022-06-11 23:53:40,051-search_file-INFO-Searching file content for the given text is successful
+2022-06-11 23:53:40,051-search_file-INFO-started with find_text 
+2022-06-11 23:53:40,051-search_file-INFO-Searching file content for the given text is successful
+2022-06-11 23:53:40,051-File_processor-INFO-File processed successfully
+2022-06-11 23:53:40,051-app-INFO-File Editing is successful
+2022-06-11 23:53:40,060-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 23:53:40] "[37mPOST /file HTTP/1.1[0m" 200 -
+2022-06-11 23:53:40,072-werkzeug-INFO-127.0.0.1 - - [11/Jun/2022 23:53:40] "[33mGET /style.css HTTP/1.1[0m" 404 -
