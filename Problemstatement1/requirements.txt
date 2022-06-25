@@ -1,0 +1,11 @@
+scikit-learn
+numpy
+scipy 
+pandas
+dill
+jupyterlab
+matplotlib
+seaborn
+xgboost
+catboost
+pandas_profiling
