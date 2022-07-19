@@ -1,0 +1,1 @@
+Outlier Detection and Handling through:Z-score or Extreme Value Analysis, IQR, distributive plot,scatter plot, Box plot, Automatic outlier Detection, Isolation Forest algorithm, Local Outlier Factor algorithm, DBSCAN algorithm.
